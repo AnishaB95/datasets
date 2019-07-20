@@ -1,0 +1,9 @@
+Name Age Sex
+Anna 20 Female
+Chris 21 Male
+Jordan 20 Female
+Lisa 19 Female
+Sam 21 Male
+Nate 20 Male 
+Maddy 21 Female 
+Tom 19 Male
